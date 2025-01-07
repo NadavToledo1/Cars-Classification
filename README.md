@@ -44,9 +44,12 @@ Ensure required dependencies are installed:
 
 Open the notebooks in your preferred environment (e.g., Jupyter Notebook, VS Code):
 
-Exploratory_data_analysis.ipynb
-Models.ipynb
-Experiments.ipynb
+    Exploratory_data_analysis.ipynb
+    
+    Models.ipynb
+    
+    Experiments.ipynb
+
 
 Follow the instructions in each notebook to reproduce the results.
 
