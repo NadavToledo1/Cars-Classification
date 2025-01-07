@@ -33,6 +33,23 @@ The project uses the Stanford Cars Dataset, which contains 16,185 images of cars
 - Comparative analysis of models to evaluate performance across multiple metrics.
 - Exploration of computational limitations and creative solutions to improve results.
 
+## How to Run
+Clone the repository:
+
+    git clone https://github.com/NadavToledo1/Cars-Classification.git  
+    cd car-classification  
+Ensure required dependencies are installed:
+    pip install -r requirements.txt  
+
+Open the notebooks in your preferred environment (e.g., Jupyter Notebook, VS Code):
+
+Exploratory_data_analysis.ipynb
+Models.ipynb
+Experiments.ipynb
+
+Follow the instructions in each notebook to reproduce the results.
+
+
 ### Acknowledgments
 Stanford Cars Dataset for providing a rich and challenging dataset for this project.
 Deep learning libraries like PyTorch/TensorFlow for enabling model implementation and training.
