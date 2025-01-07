@@ -39,6 +39,7 @@ Clone the repository:
     git clone https://github.com/NadavToledo1/Cars-Classification.git  
     cd car-classification  
 Ensure required dependencies are installed:
+
     pip install -r requirements.txt  
 
 Open the notebooks in your preferred environment (e.g., Jupyter Notebook, VS Code):
